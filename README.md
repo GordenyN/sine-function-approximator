@@ -14,8 +14,6 @@ This project demonstrates how a simple fully connected neural network can learn 
 Synthetic sine wave generated using `numpy.linspace`.
 
 ##  Requirements
-
-Install with:
-
-```bash
-python sine_net.py
+- TensorFlow
+- NumPy
+- Matplotlib
